@@ -46,6 +46,7 @@
 
     <mvc:interceptors>
         <!-- 定义在这里的，所有的都会拦截-->
+<!--        <bean></bean>-->
         <mvc:interceptor>
             <!--manage/a.do  /manage/*-->
             <!--manage/b.do  /manage/*-->
